@@ -1,0 +1,16 @@
+{
+  "name": "magnews2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d MAGNEWS2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://fxinsight.github.io/mywebsite",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
